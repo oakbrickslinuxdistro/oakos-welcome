@@ -1,5 +1,5 @@
 # OakOS - Welcome application!
-######oakos-welcome is a simple application that shows a welcome window.
+###### oakos-welcome is a simple application that shows a welcome window.
 
 There is currently no packaged versons (arch linux package soon)
 
